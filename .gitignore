@@ -1,2 +1,9 @@
+*.exe
+*.ini
+*.dbg
 /backup
 /lib
+/monitor/backup
+/monitor/lib
+/tests/backup
+/tests/lib

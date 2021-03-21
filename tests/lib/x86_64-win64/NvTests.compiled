@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\Bin\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381338938"/>
-  <Params Value=" -MObjFPC -Scaghi -CirotR -O1 -gw2 -godwarfsets -gl -gh -Xg -gt -WG -l -vewnhibq -FiC:\Workspace\pascal\nvml\tests\lib\x86_64-win64 -FuC:\Bin\lazarus\components\fpcunit\lib\x86_64-win64\win32 -FuC:\Bin\lazarus\components\synedit\units\x86_64-win64\win32 -FuC:\Bin\lazarus\lcl\units\x86_64-win64\win32 -FuC:\Bin\lazarus\lcl\units\x86_64-win64 -FuC:\Workspace\pascal\nvml\lib\x86_64-win64 -FuC:\Bin\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Bin\lazarus\packager\units\x86_64-win64 -FuC:\Workspace\pascal\nvml\tests\ -FUC:\Workspace\pascal\nvml\tests\lib\x86_64-win64\ -FEC:\Workspace\pascal\nvml\tests\ -oC:\Workspace\pascal\nvml\tests\NvTests.exe -dLCL -dLCLwin32 NvTests.lpr"/>
-</CONFIG>

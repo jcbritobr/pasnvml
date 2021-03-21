@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\Bin\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381338938"/>
-  <Params Value=" -MObjFPC -Scghi -CX -O3 -XX -WG -l -vewnhibq -FiC:\Workspace\pascal\nvml\monitor\lib\x86_64-win64 -FuC:\Bin\lazarus\lcl\units\x86_64-win64\win32 -FuC:\Bin\lazarus\lcl\units\x86_64-win64 -FuC:\Workspace\pascal\nvml\lib\x86_64-win64 -FuC:\Bin\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Bin\lazarus\packager\units\x86_64-win64 -FuC:\Workspace\pascal\nvml\monitor\ -FUC:\Workspace\pascal\nvml\monitor\lib\x86_64-win64\ -FEC:\Workspace\pascal\nvml\monitor\ -oC:\Workspace\pascal\nvml\monitor\nvmonitor.exe -dLCL -dLCLwin32 nvmonitor.lpr"/>
-</CONFIG>
